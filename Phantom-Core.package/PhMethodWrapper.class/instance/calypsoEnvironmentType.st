@@ -1,0 +1,3 @@
+calypso
+calypsoEnvironmentType
+	^ ClyMethod
